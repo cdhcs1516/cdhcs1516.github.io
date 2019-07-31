@@ -13,21 +13,21 @@ tags:
 ---
 
 ## Typical memory usage for primitive types and arrays
-|Type       | bytes|
-|:--------: | :---:|
-|boolean    | 1|
-|byte       | 1|
-|char       | 2|
-|int        | 4|
-|float      | 4|
-|long       | 8|
-|double     | 8|
-|char[]     | 2N+24|
-|int[]      | 4N+24|
-|double[]   | 8N+24|
-|char[][]   | ~2MN|
-|int[][]    | ~4MN|
-|double[][] | ~8MN|
+| Type       | bytes |
+| :--------: | :---: |
+| boolean    | 1 |
+| byte       | 1 |
+| char       | 2 |
+| int        | 4 |
+| float      | 4 |
+| long       | 8 |
+| double     | 8 |
+| char[]     | 2N+24 |
+| int[]      | 4N+24 |
+| double[]   | 8N+24 |
+| char[][]   | ~2MN |
+| int[][]    | ~4MN |
+| double[][] | ~8MN |
 
 ## Typical memory usage for objects in Java
 ***Object overhead.*** 16 bytes.
