@@ -13,6 +13,7 @@ tags:
 ---
 
 ## Typical memory usage for primitive types and arrays
+
 | Type       | bytes |
 | :--------: | :---: |
 | boolean    | 1 |
@@ -30,12 +31,14 @@ tags:
 | double[][] | ~8MN |
 
 ## Typical memory usage for objects in Java
+
 ***Object overhead.*** 16 bytes.
 
 ***Reference.*** 8 bytes.
 
-***Paddin.*** Each object uses a multiple of 8 bytes.
+***Padding.*** Each object uses a multiple of 8 bytes.
 
 ## Examples for memory computaion
+
 ![Example 1](https://github.com/cdhcs1516/cdhcs1516.github.io/raw/master/img/memory-ex1.png "ex1")
 ![Example 2](https://github.com/cdhcs1516/cdhcs1516.github.io/raw/master/img/memory-ex2.png "ex2")
