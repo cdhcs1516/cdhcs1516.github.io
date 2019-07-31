@@ -35,5 +35,5 @@ double[][] | ~8MN
 ***Paddin.*** Each object uses a multiple of 8 bytes.
 
 ## Examples for memory computaion
-![Example 1](img/memory-ex1.png "ex1")
-![Example 2](img/memory-ex2.png "ex2")
+![Example 1](./img/memory-ex1.png "ex1")
+![Example 2](./img/memory-ex2.png "ex2")
