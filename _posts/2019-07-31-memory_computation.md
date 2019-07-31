@@ -37,5 +37,5 @@ tags:
 ***Paddin.*** Each object uses a multiple of 8 bytes.
 
 ## Examples for memory computaion
-![Example 1](https://github.com/cdhcs1516/cdhcs1516.github.io/blob/master/img/memory-ex1.png "ex1")
-![Example 2](https://github.com/cdhcs1516/cdhcs1516.github.io/blob/master/img/memory-ex2.png "ex2")
+![Example 1](https://github.com/cdhcs1516/cdhcs1516.github.io/raw/master/img/memory-ex1.png "ex1")
+![Example 2](https://github.com/cdhcs1516/cdhcs1516.github.io/raw/master/img/memory-ex2.png "ex2")
