@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Algorithms Part I-Memory Computaion
+title:      Memory Computaion
 subtitle:   
 date:       2019-07-31
 author:     cdh
