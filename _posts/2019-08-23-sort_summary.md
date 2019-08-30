@@ -14,4 +14,4 @@ tags:
 
 ## Comparison of some Classic Sort Algorithms
 
-![Sort Summary](https://github.com/cdhcs1516/cdhcs1516.github.io/raw/master/img/sort_summary.png "sort")
+![Sort Summary](https://github.com/cdhcs1516/cdhcs1516.github.io/raw/master/img/sort-summary.png "sort")
