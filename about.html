@@ -51,6 +51,15 @@ header-img: "img/post-bg-rwd.jpg"
     </ul> -->
 </div>
 
+<form>
+    <label for="email">Enter your email address to subscribe:</label>
+    <input type="email" id="email">
+    <button onclick="onBtnClick()">Subscribe</button>
+</form>
+
+<div id="message">
+</div>
+
 <!-- Handle Language Change -->
 <script type="text/javascript">
     // get nodes
@@ -85,6 +94,12 @@ header-img: "img/post-bg-rwd.jpg"
         }else{
             window.location.hash = "#en"
         }
+    }
+
+    // handle button click function
+    function onBtnClick() {
+        var $message = document.querySelector("#message");
+        $message.innerHTML = "Subscription successful!";
     }
 
     // init
